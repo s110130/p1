@@ -10,4 +10,4 @@
         # # # # # 
         . . # . . 
         . . # . .
-        `</field></block></next></block></statement></block></xml>
+        `</field></block></next></block></statement></block><block type="device_button_event" id="i,4}*PMx)NRZVsd5`)(]" x="20" y="215"><field name="NAME">Button.A</field></block></xml>
